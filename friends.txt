@@ -1,0 +1,6 @@
+Jennifer Aniston,Rachel Green
+Courteney Cox,Monica Geller
+Lisa Kudrow,Phoebe Buffay
+Matt LeBlanc,Joey Tribbiani
+Matthew Perry,Chandler Bing
+David Schwimmer,Ross Geller
